@@ -1,3 +1,6 @@
+**Collaborative assignment to perform static and dynamic code analysis during the 2021 Spring GenerationUSA JR. WEB DEVELOPER cohort**
+
+
 # gen-testing-debrief
 Unit Testing Assignment for Sync Debrief
 
